@@ -22,4 +22,4 @@ int main(){
 	}
 	cout<<count;
 	return 0;
-}//时间复杂度nlogn 
+}//鏃堕棿澶嶆潅搴︿负nlogn 
